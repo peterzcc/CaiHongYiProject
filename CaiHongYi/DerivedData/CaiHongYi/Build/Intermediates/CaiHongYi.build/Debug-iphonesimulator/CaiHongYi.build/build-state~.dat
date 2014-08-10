@@ -1,0 +1,334 @@
+TCaiHongYi
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/PrecompiledHeaders/CaiHongYi-Prefix-fceqbsepckltzabwtgefjllwvfkq/CaiHongYi-Prefix.pch.pch CaiHongYi/CaiHongYi-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/Objects-normal/i386/RWTAppDelegate.o /Users/peterz/drive/ios/CaiHongYi/CaiHongYi/RWTAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/Objects-normal/i386/main.o /Users/peterz/drive/ios/CaiHongYi/CaiHongYi/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/CaiHongYi normal i386
+cCopyStringsFile /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/en.lproj/InfoPlist.strings CaiHongYi/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/peterz/drive/ios/CaiHongYi/CaiHongYi/main.storyboard
+cCompileAssetCatalog /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app /Users/peterz/drive/ios/CaiHongYi/CaiHongYi/Images.xcassets
+cProcessInfoPlistFile /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/Info.plist /Users/peterz/drive/ios/CaiHongYi/CaiHongYi/CaiHongYi-Info.plist
+cGenerateDSYMFile /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app.dSYM /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/CaiHongYi
+cTouch /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000538AF8CB00000000000001BA
+t1401616587
+s442
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000538AF8CB0000000000000413
+t1401616587
+s1043
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531EA1C3000000000000019E
+t1394516419
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000053475E1F0000000000446820
+t1397186079
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531EA1C9000000000088D8C0
+t1394516425
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531EA1CF0000000001F1DE10
+t1394516431
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531EA1EC0000000000000ADC
+t1394516460
+s2780
+
+N/Users/peterz/drive/ios/CaiHongYi/CaiHongYi/CaiHongYi-Info.plist
+c0000000053E616A10000000000000490
+t1407588001
+s1168
+
+N/Users/peterz/drive/ios/CaiHongYi/CaiHongYi/CaiHongYi-Prefix.pch
+c0000000053E616A10000000000000158
+t1407588001
+s344
+
+N/Users/peterz/drive/ios/CaiHongYi/CaiHongYi/Images.xcassets
+c0000000053E616A10000000000000088
+t1407588001
+s136
+
+N/Users/peterz/drive/ios/CaiHongYi/CaiHongYi/RWTAppDelegate.m
+c0000000053E616A10000000000000882
+t1407588001
+s2178
+
+N/Users/peterz/drive/ios/CaiHongYi/CaiHongYi/en.lproj/InfoPlist.strings
+c0000000053E616A1000000000000002D
+t1407588001
+s45
+
+N/Users/peterz/drive/ios/CaiHongYi/CaiHongYi/main.m
+c0000000053E616A10000000000000150
+t1407588001
+s336
+
+N/Users/peterz/drive/ios/CaiHongYi/CaiHongYi/main.storyboard
+c0000000053E6189A0000000000000D54
+t1407588506
+s3412
+
+N/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/Objects-normal/i386/CaiHongYi.LinkFileList
+c0000000053E6189A0000000000000144
+t1407588506
+s324
+
+N/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/Objects-normal/i386/RWTAppDelegate.o
+t1407588508
+s64040
+
+N/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/Objects-normal/i386/main.o
+t1407588508
+s3524
+
+N/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/assetcatalog_dependencies.txt
+t1407588509
+s433
+
+N/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/assetcatalog_generated_info.plist
+t1407588509
+s525
+
+N/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/PrecompiledHeaders/CaiHongYi-Prefix-fceqbsepckltzabwtgefjllwvfkq/CaiHongYi-Prefix.pch.pch
+t1407588507
+s115916
+
+N/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app
+t1407588509
+s306
+
+N/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app.dSYM
+t2
+s0
+
+N/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/CaiHongYi
+t1407588508
+s16396
+
+N/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/Info.plist
+t1407588509
+s984
+
+N/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/PkgInfo
+t1407588509
+s8
+
+N/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/en.lproj/InfoPlist.strings
+t1407588508
+s42
+
+N/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/main.storyboardc
+t1407588508
+s170
+
+CBuild AST from /Users/peterz/drive/ios/CaiHongYi/CaiHongYi/RWTAppDelegate.m
+r0
+
+CBuild AST from /Users/peterz/drive/ios/CaiHongYi/CaiHongYi/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies84818f1a5096b941^4b1e9f1a5096b941^---0#1#1#--18"Check dependencies36"777FCC33-B2BD-4905-B65F-F3F46F4CB5FE-
+
+CCompileAssetCatalog /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app /Users/peterz/drive/ios/CaiHongYi/CaiHongYi/Images.xcassets
+s429281308.188211
+e429281309.335177
+r1
+xCompileAssetCatalog
+x/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app
+x/Users/peterz/drive/ios/CaiHongYi/CaiHongYi/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/LaunchImage-700-568h@2x.png
+o/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/Assets.car
+o/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"CompileAssetCatalog DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app CaiHongYi/Images.xcassets118"CompileAssetCatalog DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app CaiHongYi/Images.xcassetsaa45301c5096b941^20d0551d5096b941^-461"/* com.apple.actool.compilation-results *//Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/LaunchImage-700-568h@2x.png/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/Assets.car/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@67"file:///Users/peterz/drive/ios/CaiHongYi/CaiHongYi/Images.xcassets/0000000000000000^1217"CompileAssetCatalog DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app CaiHongYi/Images.xcassets    cd /Users/peterz/drive/ios/CaiHongYi    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app /Users/peterz/drive/ios/CaiHongYi/CaiHongYi/Images.xcassets36"697380E2-0BCB-4E05-B001-AD2345B93581-
+bDD587377-86FD-42A7-BACF-43DC7D6CF2E2
+
+CCompileC DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/Objects-normal/i386/RWTAppDelegate.o /Users/peterz/drive/ios/CaiHongYi/CaiHongYi/RWTAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429281307.988427
+e429281308.123503
+r1
+xCompileC
+xDerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/Objects-normal/i386/RWTAppDelegate.o
+x/Users/peterz/drive/ios/CaiHongYi/CaiHongYi/RWTAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/peterz/drive/ios/CaiHongYi/CaiHongYi/RWTAppDelegate.m
+d/Users/peterz/drive/ios/CaiHongYi/CaiHongYi/RWTAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/peterz/drive/ios/CaiHongYi/CaiHongYi/RWTAppDelegate.m236"CompileC DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/Objects-normal/i386/RWTAppDelegate.o CaiHongYi/RWTAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera037fd1b5096b941^bf9e1f1c5096b941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/peterz/drive/ios/CaiHongYi/CaiHongYi/RWTAppDelegate.m0000000000000000^3938"CompileC DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/Objects-normal/i386/RWTAppDelegate.o CaiHongYi/RWTAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/peterz/drive/ios/CaiHongYi    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/peterz/drive/ios/CaiHongYi/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/CaiHongYi-generated-files.hmap -I/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/CaiHongYi-own-target-headers.hmap -I/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/CaiHongYi-all-target-headers.hmap -iquote /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/CaiHongYi-project-headers.hmap -I/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/DerivedSources/i386 -I/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/DerivedSources -F/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator -include /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/PrecompiledHeaders/CaiHongYi-Prefix-fceqbsepckltzabwtgefjllwvfkq/CaiHongYi-Prefix.pch -MMD -MT dependencies -MF /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/Objects-normal/i386/RWTAppDelegate.d --serialize-diagnostics /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/Objects-normal/i386/RWTAppDelegate.dia -c /Users/peterz/drive/ios/CaiHongYi/CaiHongYi/RWTAppDelegate.m -o /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/Objects-normal/i386/RWTAppDelegate.o36"27766DE2-013D-4124-B9BF-1F7F9461378F-
+bDD587377-86FD-42A7-BACF-43DC7D6CF2E2
+
+CCompileC DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/Objects-normal/i386/main.o /Users/peterz/drive/ios/CaiHongYi/CaiHongYi/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429281307.989117
+e429281308.119941
+r1
+xCompileC
+xDerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/Objects-normal/i386/main.o
+x/Users/peterz/drive/ios/CaiHongYi/CaiHongYi/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/peterz/drive/ios/CaiHongYi/CaiHongYi/main.m
+d/Users/peterz/drive/ios/CaiHongYi/CaiHongYi/RWTAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/peterz/drive/ios/CaiHongYi/CaiHongYi/main.m216"CompileC DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/Objects-normal/i386/main.o CaiHongYi/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb152fd1b5096b941^96b41e1c5096b941^---0#0#1#-19%DVTDocumentLocation2@57"file:///Users/peterz/drive/ios/CaiHongYi/CaiHongYi/main.m0000000000000000^3878"CompileC DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/Objects-normal/i386/main.o CaiHongYi/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/peterz/drive/ios/CaiHongYi    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/peterz/drive/ios/CaiHongYi/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/CaiHongYi-generated-files.hmap -I/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/CaiHongYi-own-target-headers.hmap -I/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/CaiHongYi-all-target-headers.hmap -iquote /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/CaiHongYi-project-headers.hmap -I/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/DerivedSources/i386 -I/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/DerivedSources -F/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator -include /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/PrecompiledHeaders/CaiHongYi-Prefix-fceqbsepckltzabwtgefjllwvfkq/CaiHongYi-Prefix.pch -MMD -MT dependencies -MF /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/Objects-normal/i386/main.dia -c /Users/peterz/drive/ios/CaiHongYi/CaiHongYi/main.m -o /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/Objects-normal/i386/main.o36"20BA9B87-D177-4E63-B7F1-248E9700D37C-
+bDD587377-86FD-42A7-BACF-43DC7D6CF2E2
+
+CCompileStoryboard /Users/peterz/drive/ios/CaiHongYi/CaiHongYi/main.storyboard
+s429281308.187698
+e429281308.833603
+r1
+xCompileStoryboard
+x/Users/peterz/drive/ios/CaiHongYi/CaiHongYi/main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"CompileStoryboard CaiHongYi/main.storyboard43"CompileStoryboard CaiHongYi/main.storyboardd025301c5096b941^ba67d51c5096b941^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/peterz/drive/ios/CaiHongYi/CaiHongYi/main.storyboard0000000000000000^819"CompileStoryboard CaiHongYi/main.storyboard    cd /Users/peterz/drive/ios/CaiHongYi    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/main.storyboardc /Users/peterz/drive/ios/CaiHongYi/CaiHongYi/main.storyboard36"2EC123E5-3B2A-49E6-8CEA-15F0E1A53B44-
+bDD587377-86FD-42A7-BACF-43DC7D6CF2E2
+
+CCopyStringsFile /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/en.lproj/InfoPlist.strings CaiHongYi/en.lproj/InfoPlist.strings
+s429281308.187446
+e429281308.189049
+r1
+xCopyStringsFile
+x/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/en.lproj/InfoPlist.strings
+xCaiHongYi/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy CaiHongYi/en.lproj/InfoPlist.strings152"CopyStringsFile DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/en.lproj/InfoPlist.strings CaiHongYi/en.lproj/InfoPlist.strings5018301c5096b941^ab5c301c5096b941^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/peterz/drive/ios/CaiHongYi/CaiHongYi/en.lproj/InfoPlist.strings0000000000000000^635"CopyStringsFile DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/en.lproj/InfoPlist.strings CaiHongYi/en.lproj/InfoPlist.strings    cd /Users/peterz/drive/ios/CaiHongYi    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/en.lproj -- CaiHongYi/en.lproj/InfoPlist.strings36"02AA12A6-4C99-4676-8E30-577C97963673-
+bDD587377-86FD-42A7-BACF-43DC7D6CF2E2
+
+CGenerateDSYMFile /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app.dSYM /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/CaiHongYi
+s429281309.338294
+e429281309.368996
+r1
+xGenerateDSYMFile
+x/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app.dSYM
+x/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/CaiHongYi
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Generate /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app.dSYM177"GenerateDSYMFile DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app.dSYM DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/CaiHongYic5a9561d5096b941^a3775e1d5096b941^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app.dSYM00346808deffdf42^746"GenerateDSYMFile DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app.dSYM DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/CaiHongYi    cd /Users/peterz/drive/ios/CaiHongYi    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/CaiHongYi -o /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app.dSYM36"26AB7AE7-7A31-42BC-B400-7F902557B64C-
+bDD587377-86FD-42A7-BACF-43DC7D6CF2E2
+
+CLd /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/CaiHongYi normal i386
+s429281308.124353
+e429281308.186546
+r1
+xLd
+x/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/CaiHongYi
+xnormal
+xi386
+d/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/Objects-normal/i386/CaiHongYi.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/Objects-normal/i386/RWTAppDelegate.o
+d/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Link /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/CaiHongYi97"Ld DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/CaiHongYi normal i386abe81f1c5096b941^fcc22f1c5096b941^---0#0#1#--1511"Ld DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/CaiHongYi normal i386    cd /Users/peterz/drive/ios/CaiHongYi    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator -F/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator -filelist /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/Objects-normal/i386/CaiHongYi.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/Objects-normal/i386/CaiHongYi_dependency_info.dat -o /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/CaiHongYi36"56D49A57-9604-40FE-A1CD-91D1150DA182-
+bDD587377-86FD-42A7-BACF-43DC7D6CF2E2
+
+CProcessInfoPlistFile /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/Info.plist /Users/peterz/drive/ios/CaiHongYi/CaiHongYi/CaiHongYi-Info.plist
+s429281309.335933
+e429281309.337750
+r1
+xProcessInfoPlistFile
+x/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/Info.plist
+x/Users/peterz/drive/ios/CaiHongYi/CaiHongYi/CaiHongYi-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Process /Users/peterz/drive/ios/CaiHongYi/CaiHongYi/CaiHongYi-Info.plist135"ProcessInfoPlistFile DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/Info.plist CaiHongYi/CaiHongYi-Info.plistd712561d5096b941^8177561d5096b941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/peterz/drive/ios/CaiHongYi/CaiHongYi/CaiHongYi-Info.plist0000000000000000^963"ProcessInfoPlistFile DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/Info.plist CaiHongYi/CaiHongYi-Info.plist    cd /Users/peterz/drive/ios/CaiHongYi    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/peterz/drive/ios/CaiHongYi/CaiHongYi/CaiHongYi-Info.plist -genpkginfo /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/assetcatalog_generated_info.plist -o /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app/Info.plist36"133B14AC-F6AB-47E3-A779-6873D30B0C0A-
+bDD587377-86FD-42A7-BACF-43DC7D6CF2E2
+
+CProcessPCH /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/PrecompiledHeaders/CaiHongYi-Prefix-fceqbsepckltzabwtgefjllwvfkq/CaiHongYi-Prefix.pch.pch CaiHongYi/CaiHongYi-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429281306.614753
+e429281307.987442
+r1
+xProcessPCH
+x/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/PrecompiledHeaders/CaiHongYi-Prefix-fceqbsepckltzabwtgefjllwvfkq/CaiHongYi-Prefix.pch.pch
+xCaiHongYi/CaiHongYi-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/peterz/drive/ios/CaiHongYi/CaiHongYi/CaiHongYi-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile CaiHongYi/CaiHongYi-Prefix.pch241"ProcessPCH DerivedData/CaiHongYi/Build/Intermediates/PrecompiledHeaders/CaiHongYi-Prefix-fceqbsepckltzabwtgefjllwvfkq/CaiHongYi-Prefix.pch.pch CaiHongYi/CaiHongYi-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler67d39d1a5096b941^efc8fc1b5096b941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/peterz/drive/ios/CaiHongYi/CaiHongYi/CaiHongYi-Prefix.pch0000000000000000^3776"ProcessPCH DerivedData/CaiHongYi/Build/Intermediates/PrecompiledHeaders/CaiHongYi-Prefix-fceqbsepckltzabwtgefjllwvfkq/CaiHongYi-Prefix.pch.pch CaiHongYi/CaiHongYi-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/peterz/drive/ios/CaiHongYi    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/peterz/drive/ios/CaiHongYi/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/CaiHongYi-generated-files.hmap -I/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/CaiHongYi-own-target-headers.hmap -I/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/CaiHongYi-all-target-headers.hmap -iquote /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/CaiHongYi-project-headers.hmap -I/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/DerivedSources/i386 -I/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/CaiHongYi.build/Debug-iphonesimulator/CaiHongYi.build/DerivedSources -F/Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/PrecompiledHeaders/CaiHongYi-Prefix-fceqbsepckltzabwtgefjllwvfkq/CaiHongYi-Prefix.pch.dia -MMD -MT dependencies -MF /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/PrecompiledHeaders/CaiHongYi-Prefix-fceqbsepckltzabwtgefjllwvfkq/CaiHongYi-Prefix.pch.d -c /Users/peterz/drive/ios/CaiHongYi/CaiHongYi/CaiHongYi-Prefix.pch -o /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Intermediates/PrecompiledHeaders/CaiHongYi-Prefix-fceqbsepckltzabwtgefjllwvfkq/CaiHongYi-Prefix.pch.pch36"37B874D1-4F56-4C6B-822D-F4076C248032-
+bDD587377-86FD-42A7-BACF-43DC7D6CF2E2
+
+CProcessPCH /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Index/PrecompiledHeaders/CaiHongYi-Prefix-dkgxazvnvbsueoflkpbyinyqneeu_ast/CaiHongYi-Prefix.pch.pch CaiHongYi/CaiHongYi-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/peterz/drive/ios/CaiHongYi/DerivedData/CaiHongYi/Build/Products/Debug-iphonesimulator/CaiHongYi.app
+r0
+
