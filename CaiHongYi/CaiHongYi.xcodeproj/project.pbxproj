@@ -20,6 +20,8 @@
 		E24A9E6D19964E21008C56CF /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = E24A9E6B19964E21008C56CF /* InfoPlist.strings */; };
 		E24A9E6F19964E21008C56CF /* CaiHongYiTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E24A9E6E19964E21008C56CF /* CaiHongYiTests.m */; };
 		E24A9E7919964E55008C56CF /* main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E24A9E7819964E55008C56CF /* main.storyboard */; };
+		E2B5E71A1997278E005BCA21 /* RWTloginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E2B5E7191997278E005BCA21 /* RWTloginViewController.m */; };
+		E2B5E71D199727B5005BCA21 /* RWTregisterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E2B5E71C199727B5005BCA21 /* RWTregisterViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +52,10 @@
 		E24A9E6C19964E21008C56CF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E24A9E6E19964E21008C56CF /* CaiHongYiTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CaiHongYiTests.m; sourceTree = "<group>"; };
 		E24A9E7819964E55008C56CF /* main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = main.storyboard; sourceTree = "<group>"; };
+		E2B5E7181997278E005BCA21 /* RWTloginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RWTloginViewController.h; sourceTree = "<group>"; };
+		E2B5E7191997278E005BCA21 /* RWTloginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RWTloginViewController.m; sourceTree = "<group>"; };
+		E2B5E71B199727B5005BCA21 /* RWTregisterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RWTregisterViewController.h; sourceTree = "<group>"; };
+		E2B5E71C199727B5005BCA21 /* RWTregisterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RWTregisterViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +120,10 @@
 				E24A9E5B19964E21008C56CF /* Images.xcassets */,
 				E24A9E5019964E21008C56CF /* Supporting Files */,
 				E24A9E7819964E55008C56CF /* main.storyboard */,
+				E2B5E71B199727B5005BCA21 /* RWTregisterViewController.h */,
+				E2B5E71C199727B5005BCA21 /* RWTregisterViewController.m */,
+				E2B5E7181997278E005BCA21 /* RWTloginViewController.h */,
+				E2B5E7191997278E005BCA21 /* RWTloginViewController.m */,
 			);
 			path = CaiHongYi;
 			sourceTree = "<group>";
@@ -246,6 +256,8 @@
 			files = (
 				E24A9E5A19964E21008C56CF /* RWTAppDelegate.m in Sources */,
 				E24A9E5619964E21008C56CF /* main.m in Sources */,
+				E2B5E71A1997278E005BCA21 /* RWTloginViewController.m in Sources */,
+				E2B5E71D199727B5005BCA21 /* RWTregisterViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -442,6 +454,7 @@
 				E24A9E7419964E21008C56CF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E24A9E7519964E21008C56CF /* Build configuration list for PBXNativeTarget "CaiHongYiTests" */ = {
 			isa = XCConfigurationList;
@@ -450,6 +463,7 @@
 				E24A9E7719964E21008C56CF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

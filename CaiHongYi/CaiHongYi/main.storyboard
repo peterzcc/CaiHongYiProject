@@ -4,10 +4,10 @@
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3733"/>
     </dependencies>
     <scenes>
-        <!--View Controller-->
+        <!--Tlogin View Controller-->
         <scene sceneID="sYH-pS-tzV">
             <objects>
-                <viewController id="neo-l5-La4" sceneMemberID="viewController">
+                <viewController id="neo-l5-La4" customClass="RWTloginViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="f7q-r9-Vqg"/>
                         <viewControllerLayoutGuide type="bottom" id="zI8-DR-HzO"/>
@@ -55,10 +55,10 @@
             </objects>
             <point key="canvasLocation" x="53" y="228"/>
         </scene>
-        <!--View Controller-->
+        <!--Tregister View Controller-->
         <scene sceneID="LNV-b9-jFi">
             <objects>
-                <viewController id="BhN-mB-Mlf" sceneMemberID="viewController">
+                <viewController id="BhN-mB-Mlf" customClass="RWTregisterViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="rSx-Bv-u1d"/>
                         <viewControllerLayoutGuide type="bottom" id="QnW-XV-Jqh"/>
@@ -80,13 +80,13 @@
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
                             <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="邮箱" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="o9l-o7-ftx">
-                                <rect key="frame" x="69" y="230" width="181" height="30"/>
+                                <rect key="frame" x="69" y="225" width="181" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="94w-QD-0tV">
-                                <rect key="frame" x="145" y="300" width="30" height="30"/>
+                                <rect key="frame" x="145" y="283" width="30" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="注册">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
